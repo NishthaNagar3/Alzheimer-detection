@@ -31,3 +31,15 @@ SpringerLink
 ResNet50: A 50-layer deep residual network that addresses the vanishing gradient problem, enabling the training of deeper networks.​
 
 These models were adapted to the specific nuances of MRI data, enhancing classification performance.
+
+
+## Refferences 
+1. https://www.inderscience.com/offers.php?id=117272
+2. https://www.nature.com/articles/s41598-022-20674-x
+3. https://sist.sathyabama.ac.in/sist_naac/documents/1.3.4/1822-b.e-cse-batchno-105.pdf
+4. https://www.sciencedirect.com/science/article/pii/S2352914824001072
+5. https://www.sciencedirect.com/science/article/pii/S1532046420301428
+6. https://link.springer.com/article/10.1007/s13198-024-02441-5
+7. https://github.com/shubham0730/Alzheimers-disease-detection
+8. https://github.com/Nirmit1910/alzheimers-detection?tab=readme-ov-file#project-overview
+9. https://github.com/sonal-bansal/Detection-and-Classification-of-Alzheimers-Disease
